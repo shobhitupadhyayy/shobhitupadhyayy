@@ -5,12 +5,11 @@
 
 ### About Me
 
-Software Engineer at **Contentstack**, working on large-scale CMS migration tooling and backend systems.
+Software Engineer building scalable migration and integration systems at Contentstack. 
 
-I specialize in building scalable, maintainable, and production-grade backend services using **TypeScript and Node.js**.  
-My focus areas include system design fundamentals, migration architecture, and secure integration workflows.
+I design and maintain production-grade TypeScript services powering large-scale CMS migrations, secure OAuth workflows, and modular backend architectures. 
 
-Currently growing from with deeper ownership in architecture and backend design as well frontend integrations.
+Focused on system design, clean architecture, performance optimization, and secure integrations. Currently deepening expertise in distributed systems and event-driven architectures.
 
 ---
 
