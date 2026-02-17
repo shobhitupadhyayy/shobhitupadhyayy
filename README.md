@@ -21,7 +21,7 @@ Currently growing from with deeper ownership in architecture and backend design 
 -  Security upgrades & dependency management (Snyk-based updates)
 -  Modular backend architecture
 -  OAuth-based secure integrations
--  Client POCs (100% success rate)
+-  Led client-facing POCs and delivered successful migration workflows.
 
 ---
 
