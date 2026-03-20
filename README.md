@@ -46,6 +46,7 @@ Focused on system design, clean architecture, performance optimization, and secu
 - Node.js
 - Express
 - REST APIs
+- GraphQL
 - OAuth 2.0
 
 **Frontend (Working Knowledge)**
