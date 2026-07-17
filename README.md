@@ -87,7 +87,7 @@ backend architecture improvements.
 
 -  LinkedIn: https://www.linkedin.com/in/shobhitupadhyayy/
 -  Mumbai, India
-
+-  Portfolie: https://shobhitupadhyay.dev
 ---
 
  Always open to discussing backend systems, architecture, and system design.
